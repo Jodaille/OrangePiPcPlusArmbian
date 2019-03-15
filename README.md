@@ -1,2 +1,5 @@
 # OrangePiPcPlusArmbian
-Orange PI Pc Plus Armbian install
+
+## Installation
+
+cf: [Installation page](./INSTALL.md)
